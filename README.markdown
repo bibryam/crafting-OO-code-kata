@@ -1,13 +1,13 @@
-REQUIREMENTS:
+**REQUIREMENTS:**
 
 Create a simple accounting application that has:
 
-1. Deposit, Withdrawal
-2. Account Statements(date, total amount, account balance)
-3. Print Statements
-4. Filters (from, thru, withdrawals, deposits)
+* Deposit, Withdrawal
+* Account Statements(date, total amount, account balance)
+* Print Statements
+* Filters (from, thru, withdrawals, deposits)
 
-MUST USE TDD and JEFF BAY's RULES:
+**MUST USE TDD and JEFF BAY's RULES:**
 
 1. Use only one level of indentation per method.
 2. Don’t use the else keyword.
